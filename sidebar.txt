@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[stk:home|Door43 (stk)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-stk|d43-stk repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-stk/archive/master.zip|d43-stk.zip]]
+
+**Recent Changes**
+{{changes>ns = stk}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/stk|Ethnologue data]]
+
